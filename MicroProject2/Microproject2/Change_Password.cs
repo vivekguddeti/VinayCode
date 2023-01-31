@@ -18,7 +18,7 @@ namespace Microproject2
         SqlCommand Cmd;
         SqlDataReader DR;
         SqlParameter P;
-        public string UserName = Login_UserName'.USERNAME;
+        public string UserName = Login_UserName.USERNAME;
         
 
         public Change_Password()
